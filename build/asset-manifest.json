@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18d5bc26.css",
+    "main.js": "/static/js/main.f3b607cb.js",
+    "static/media/TPdetector_logo.png": "/static/media/TPdetector_logo.aa8057f33a8e2b86d68b.png",
+    "static/media/Loader.gif": "/static/media/Loader.083bbb2b09ac0ac312bb.gif",
+    "index.html": "/index.html",
+    "main.18d5bc26.css.map": "/static/css/main.18d5bc26.css.map",
+    "main.f3b607cb.js.map": "/static/js/main.f3b607cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18d5bc26.css",
+    "static/js/main.f3b607cb.js"
+  ]
+}
